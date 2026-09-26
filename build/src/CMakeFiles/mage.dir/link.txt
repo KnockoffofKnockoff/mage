@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libmage.a CMakeFiles/mage.dir/main.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libmage.a
